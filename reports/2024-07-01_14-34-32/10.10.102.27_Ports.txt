@@ -1,0 +1,7 @@
+MAC Address: 04:EC:D8:C1:2E:56 (Intel Corporate)
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+5040/tcp open  unknown
+7680/tcp open  pando-pub

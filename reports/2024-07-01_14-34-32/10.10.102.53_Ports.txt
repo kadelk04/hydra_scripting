@@ -1,0 +1,3 @@
+MAC Address: 1C:4D:70:19:72:10 (Intel Corporate)
+PORT   STATE SERVICE
+22/tcp open  ssh

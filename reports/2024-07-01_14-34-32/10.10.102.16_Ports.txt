@@ -1,0 +1,6 @@
+MAC Address: 18:3E:EF:E4:2E:ED (Apple)
+PORT     STATE SERVICE
+22/tcp   open  ssh
+5000/tcp open  upnp
+5432/tcp open  postgresql
+7000/tcp open  afs3-fileserver

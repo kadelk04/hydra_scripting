@@ -1,0 +1,5 @@
+MAC Address: 7C:50:79:AA:FB:B3 (Intel Corporate)
+PORT     STATE SERVICE
+3000/tcp open  ppp
+5000/tcp open  upnp
+7680/tcp open  pando-pub

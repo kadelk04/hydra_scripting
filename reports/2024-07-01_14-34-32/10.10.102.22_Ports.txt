@@ -1,0 +1,2 @@
+MAC Address: C8:89:F3:D5:28:B6 (Apple)
+All 10000 scanned ports on 10.10.102.22 are in ignored states.

@@ -1,0 +1,2 @@
+# Hydra v9.5 run at 2024-07-01 10:55:14 on targets.txt ssh (hydra -l bee -P best10.txt -s 22 -o result:json -M targets.txt ssh)
+# Hydra v9.5 run at 2024-07-01 10:55:34 on targets.txt ssh (hydra -l bee -P best10.txt -s 22 -o result:json -M targets.txt ssh)

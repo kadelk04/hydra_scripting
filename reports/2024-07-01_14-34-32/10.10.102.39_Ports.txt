@@ -1,0 +1,6 @@
+MAC Address: 90:DE:80:C3:9F:7B (Shenzhen Century Xinyang Technology)
+PORT     STATE SERVICE
+22/tcp   open  ssh
+3000/tcp open  ppp
+5001/tcp open  commplex-link
+8080/tcp open  http-proxy

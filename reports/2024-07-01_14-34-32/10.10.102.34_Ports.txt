@@ -1,0 +1,8 @@
+MAC Address: 18:48:BE:40:65:BC (Amazon Technologies)
+PORT     STATE  SERVICE
+1080/tcp open   socks
+4070/tcp open   tripe
+4071/tcp closed aibkup
+6543/tcp open   mythtv
+7805/tcp closed unknown
+8888/tcp open   sun-answerbook
